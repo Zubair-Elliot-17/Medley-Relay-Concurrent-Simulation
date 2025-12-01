@@ -1,0 +1,22 @@
+GIT LOGS
+
+
+Author: Zubair Elliot <ellzub001@nightmare.cs.uct.ac.za>
+Date:   Thu Sep 5 20:10:30 2024 +0000
+
+    added start button functionality
+
+commit 8e66dde6d76ef9d3d1496464c8322d88f9c490fa (HEAD -> master)
+Author: Zubair Elliot <ellzub001@nightmare.cs.uct.ac.za>
+Date:   Sun Sep 8 16:32:25 2024 +0000
+
+    Ensures all swimmers enter the stadium correctly
+
+commit 8e66dde6d76ef9d3d1496464c8322d88f9c490fa
+Author: Zubair Elliot <ellzub001@nightmare.cs.uct.ac.za>
+Date:   Sun Sep 8 16:32:25 2024 +0000
+
+    Ensures all swimmers enter the stadium correctly
+
+
+//the first commit was made in another branch which I unintentionally deleted
